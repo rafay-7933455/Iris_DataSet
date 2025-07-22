@@ -27,9 +27,9 @@ This is a small project that I made being inspired by the person who made the li
   | ---- | -------------------------------------------------------------------------------------- |
   | 1.   | Locate the file                                                                        |
   | 2.   | Open the respective folder in terminal                                                 |
-  | 3.   | To install the python if not (optional) type "pip install python" and press_Enter key_ |
-  | 4.   | To install requirements type "pip install -r requirements.txt" and press_Enter key_    |
-  | 5.   | Finally to run the code type "python Linear_Regression.py" and press_Enter key_      |
+  | 3.   | To install the python if not (optional) type "pip install python" and press _Enter key_ |
+  | 4.   | To install requirements type "pip install -r requirements.txt" and press _Enter key_    |
+  | 5.   | Finally to run the code type "python Linear_Regression.py" and press _Enter key_      |
 
 ## About Models🤖:
 
